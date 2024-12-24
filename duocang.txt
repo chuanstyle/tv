@@ -1,7 +1,8 @@
 //🌈川哥出品,必属精品❄️,感谢支持,请勿贩卖！
 {"storeHouse":
 [
-{"sourceName":"🌴🌙川哥精品影视仓🍎🌴", "sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuanstyle/tv/main/chuange.txt"},
+{"sourceName":"🌴🌙川哥精品影视仓🍎🌴", "sourceUrl":"https://raw.gitmirror.com/chuanstyle/tv/main/chuange.txt"},
+{"sourceName":"🌴🌙川哥精品备用影视仓🍎🌴", "sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuanstyle/tv/main/chuange.txt"},
 {"sourceName":"🌴🌞彬哥主机仓🌞🌴","sourceUrl":"https://xpb.mhfs.eu.org/BD/BD.txt"},
 {"sourceName":"🌴🌞彬哥汇总仓🌞🌴","sourceUrl":"https://xpb.mhfs.eu.org/YS.txt"},
 {"sourceName":"🌴🌞码点小干货仓🌞🌴","sourceUrl":"http://120.79.4.185/dc.json"}]}
