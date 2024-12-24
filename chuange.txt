@@ -1,0 +1,88 @@
+{
+  "urls": [
+    {
+      "name": "🌠川哥精品丨软饭硬吃线路🍚",
+      "url": "http://www.饭太硬.com/tv"
+    },
+    {
+      "name": "🍎川哥出品丨必属精品🍚备用",
+      "url": "http://fty.xxooo.cf/tv"
+    },
+    {
+      "name": "📡川哥VIP丨讴歌线路修复中❄️",
+      "url": "http://tv.nxog.top/m/"
+    },
+    {
+      "name": "🐼川哥影视丨肥猫宝贝🐼",
+      "url": "http://肥猫.com"
+    },
+    {
+      "name": "🌙川哥采集丨月光宝盒🌙",
+      "url": "http://mzjk.top/禁止贩卖"
+    },
+    {
+      "url": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🌈川哥VIP丨挺好在线📛"
+    },
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "🍎川哥采集丨小苹果在线🍏"
+    },
+    {
+      "name": "🎄挺好丨PG线路🔰",
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"
+    },
+    {
+      "name": "🐂挺好丨王二小放牛🐂🎤",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+    {
+      "url": "http://www.fish2018.us.kg/p/jsm.json",
+      "name": "🌈川哥采集丨PG源内涵KTV🎤"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🦈聚合丨摸鱼线路🐬"
+    },
+    {
+      "name": "🌌挺好丨小米哥哥🔰",
+      "url": "https://www.mpanso.com/小米/DEMO.json"
+    },
+    {
+      "url": "https://git.acwing.com/YHYkeji/yhykeji/-/raw/main/yhykj.json",
+      "name": "🌷🌼蓝色影视YHY影视在线🌷🌼"
+    },
+    {
+      "url": "http://meowtv.top/tv",
+      "name": "🌷🌼喵影视在线🌷🌼"
+    },
+    {
+      "name": "🐘挺好丨动漫城秀🔰",
+      "url": "https://www.yingm.cc/dm/dm.json"
+    },
+    {
+      "url": "https://xpb.mhfs.eu.org/BD/XPB/api.json",
+      "name": "☘️☘️彬哥丨自营无敌线☘️☘️"
+    },
+    {
+      "url": "http://mdxgh.tpddns.cn:9999/md.json",
+      "name": "🌷🌼码点小干货在线1🌷🌼"
+    },
+    {
+      "url": "http://mdxgh.tpddns.cn:9999/mdkdb.json",
+      "name": "🌷🌼码点小干货在线2🌷🌼"
+    },
+    {
+      "url": "http://router.bopop.buzz:9999/yyds.json",
+      "name": "🌷🌼码点小干货在线3🌷🌼"
+    },
+    {
+      "url": "http://8.138.7.223/tv.txt",
+      "name": "🥭🍓看电视丨榴芒电视🥭🍑"
+    },
+    {
+      "name": "🔞深夜丨内涵理论电影🎞️",
+      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json"
+    }
+  ]
+}
